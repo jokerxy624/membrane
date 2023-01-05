@@ -1,2 +1,2 @@
 # membrane
-Code files for the paper “Prescriptive formulation of Inorganic Membranes on Aqueous Surface” by Chen Zhang, Wanheng Lu, Yingfeng Xu, Kaiyang Zeng, and Ghim Wei Ho. 
+Code files for the paper “Mechanistically Formulating Inorganic Membranes at Liquid Interface” by Chen Zhang, Wanheng Lu, Yingfeng Xu, Kaiyang Zeng, and Ghim Wei Ho. 
