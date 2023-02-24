@@ -1,2 +1,2 @@
 # membrane
-Code files for the paper “Mechanistically Formulating Inorganic Membranes at Liquid Interface” by Chen Zhang, Wanheng Lu, Yingfeng Xu, Kaiyang Zeng, and Ghim Wei Ho. 
+Code files for the paper “Mechanistic formulation of inorganic membranes at the air-liquid interface” by Chen Zhang, Wanheng Lu, Yingfeng Xu, Kaiyang Zeng, and Ghim Wei Ho. 
